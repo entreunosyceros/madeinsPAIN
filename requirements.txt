@@ -1,0 +1,5 @@
+# madeinsPAIN - Dependencias
+
+# Solo necesarias para la versión gráfica (pygame_game.py).
+# La versión de terminal (main.py) solo usa la librería estándar.
+pygame>=2.6.0
