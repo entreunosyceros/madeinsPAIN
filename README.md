@@ -255,7 +255,7 @@ Al subir de nivel recuperas toda la vida, ganas +15 HP máximo y +2 al daño.
 
 Este software se distribuye bajo licencia **MIT**.
 
-> **Aviso:** Todos los nombres, personajes y situaciones representados en este juego son **ficticios** o utilizados en un contexto de **sátira y parodia**. No representan opiniones políticas reales del autor. No se pretende ofender a ninguna persona ni partido político. Si te ofendes fácilmente, juega en modo *Zen* (no existe, pero sería una buena idea).
+> **Aviso:** Todos los nombres, personajes y situaciones representados en este juego son **ficticios** o utilizados en un contexto de **sátira y parodia**. No representan opiniones del autor. No se pretende ofender a ninguna persona. Si te ofendes fácilmente, juega en modo *Zen* (no existe, pero sería una buena idea).
 
 ---
 
