@@ -79,9 +79,9 @@ python3 pygame_game.py
 ---
 
 ## Controles
-<div align="center"
+
 <img width="881" height="492" alt="pantalla-madeinspain" src="https://github.com/user-attachments/assets/2d79b079-9200-480f-8e19-e1fb5760a85b" />
-</div>
+
 
 ### En el mapa
 
