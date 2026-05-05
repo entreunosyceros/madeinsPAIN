@@ -1,14 +1,15 @@
 # madeinsPAIN
 
+<img width="1024" height="512" alt="logo" src="https://github.com/user-attachments/assets/01f10678-6ef8-41b0-8fb1-bf0b647c49c9" />
+
 Juego RPG de terminal escrito en Python. Recorre un mapa procedural, derrota políticos españoles en combates por turnos y consigue **la jubilación**.
 
 Disponible en dos versiones:
 - **Terminal** (curses): versión de texto en la terminal.
-- **Pygame**: versión gráfica estilo Super Mario Bros con sprites pixel-art, animaciones, tienda de leyes y música chiptune 8-bit.
+- **Pygame**: versión gráfica con sprites pixel-art, animaciones, tienda de leyes y música chiptune 8-bit que taladra la cabeza que no veas.
 
-![madeinsPAIN](screenshot.png)
 
-> ⚠️ Este proyecto es una **sátira política** con fines humorísticos. Todos los personajes son ficticios... bueno, casi.
+> ⚠️ Este proyecto es una **sátira** con fines de pasar el rato y practicar Python. Todos los personajes son ficticios... bueno, casi.
 
 ---
 
