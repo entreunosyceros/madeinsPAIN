@@ -79,6 +79,9 @@ python3 pygame_game.py
 ---
 
 ## Controles
+<div align="center"
+<img width="881" height="492" alt="pantalla-madeinspain" src="https://github.com/user-attachments/assets/2d79b079-9200-480f-8e19-e1fb5760a85b" />
+</div>
 
 ### En el mapa
 
@@ -118,22 +121,22 @@ python3 pygame_game.py
 
 ---
 
-## Políticos enemigos
+## Enemigos
 
 Los enemigos aparecen distribuidos por dificultad: los más débiles salan al principio; los más duros aparecen más adelante. Cada enemigo **oscila 2 tiles** desde su posición y **respeta los muros** como el jugador.
 
 | Político | Símbolo | HP | Daño |
 |----------|---------|-----|------|
-| **Figaredo** (Vox) | `G` | 20 | 2-5 |
-| **Feijóo** (PP) | `F` | 30 | 3-7 |
-| **Abascal** (Vox) | `A` | 35 | 4-9 |
-| **Ayuso** (PP) | `I` | 40 | 5-10 |
-| **Puigdemont** (Junts) | `C` | 45 | 5-11 |
-| **Yolanda Díaz** (Sumar) | `Y` | 60 | 8-15 |
-| **Sánchez** (PSOE) | `S` | 70 | 10-18 |
-| **Rufián** (ERC) | `R` | 80 | 11-20 |
-| **Ione Belarra** (Podemos) | `B` | 85 | 12-21 |
-| **Junqueras** (ERC) | `J` | 95 | 13-23 |
+| **Figaredo** | `G` | 20 | 2-5 |
+| **Feijóo** | `F` | 30 | 3-7 |
+| **Abascal** | `A` | 35 | 4-9 |
+| **Ayuso** | `I` | 40 | 5-10 |
+| **Puigdemont** | `C` | 45 | 5-11 |
+| **Yolanda Díaz** | `Y` | 60 | 8-15 |
+| **Sánchez** | `S` | 70 | 10-18 |
+| **Rufián** | `R` | 80 | 11-20 |
+| **Belarra** | `B` | 85 | 12-21 |
+| **Junqueras** | `J` | 95 | 13-23 |
 
 ### Comportamiento de enemigos
 
